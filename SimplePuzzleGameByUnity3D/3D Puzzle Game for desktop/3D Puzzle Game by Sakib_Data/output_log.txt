@@ -1,0 +1,52 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     32 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Games\Projects\3D cube Game\Builds\3D Puzzle Game by Sakib_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Games\Projects\3D cube Game\Builds\3D Puzzle Game by Sakib_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Games\Projects\3D cube Game\Builds\3D Puzzle Game by Sakib_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Games\Projects\3D cube Game\Builds\3D Puzzle Game by Sakib_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.072 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 60.560833 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.692376 ms (FindLiveObjects: 0.019342 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.147238 ms  DeleteObjects: 0.005526 ms)
+
+UnloadTime: 0.643823 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.723955 ms (FindLiveObjects: 0.021316 ms CreateObjectMapping: 0.012631 ms MarkObjects: 0.142896 ms  DeleteObjects: 0.075395 ms)
+
+UnloadTime: 1.726204 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 1.406463 ms (FindLiveObjects: 0.036316 ms CreateObjectMapping: 0.025658 ms MarkObjects: 0.282240 ms  DeleteObjects: 0.007894 ms)
+
+UnloadTime: 1.305409 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 365.
+Total: 1.398963 ms (FindLiveObjects: 0.041447 ms CreateObjectMapping: 0.028816 ms MarkObjects: 0.296056 ms  DeleteObjects: 0.007894 ms)
+
+UnloadTime: 1.385937 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 424.
+Total: 1.403305 ms (FindLiveObjects: 0.043816 ms CreateObjectMapping: 0.025658 ms MarkObjects: 0.292898 ms  DeleteObjects: 0.009079 ms)
+
+UnloadTime: 1.700546 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 113.
+Total: 1.577781 ms (FindLiveObjects: 0.017368 ms CreateObjectMapping: 0.031184 ms MarkObjects: 0.243555 ms  DeleteObjects: 0.238029 ms)
+
